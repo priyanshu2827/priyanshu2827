@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **an Early Warning System for Glacial Lake Outburst Floods (GLOFs)** for Smart India Hackathon 2024
 - 🌱 I’m exploring **IoT, Machine Learning, and Full-Stack Development**
 - 👯 I’m open to collaborate on **open-source, Arduino projects, and smart automation**
 - 💬 Ask me about **Python, C++, GitHub, and Arduino**
@@ -32,14 +31,6 @@
   <br>
   <img src="https://streak-stats.demolab.com?user=priyanshu2827&theme=tokyonight" alt="GitHub streak" />
 </p>
-
----
-
-### 📍 Featured Projects
-
-- 🔹 [GLOF Early Warning System (SIH Project)](https://github.com/yourproject)
-- 🔹 [Secure Package Box System](https://github.com/yourproject)
-- 🔹 [Smart Parking Lot System](https://github.com/yourproject)
 
 ---
 
