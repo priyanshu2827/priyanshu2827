@@ -6,7 +6,7 @@
 - 🌱 I’m exploring **IoT, Machine Learning, and Full-Stack Development**
 - 👯 I’m open to collaborate on **open-source, Arduino projects, and smart automation**
 - 💬 Ask me about **Python, C++, GitHub, and Arduino**
-- 📫 How to reach me: **priyanshusakharkar@example.com**
+- 📫 How to reach me: **priyanshusakharkar2827@gmail.com**
 - ⚡ Fun fact: I love teaching tech and building bots from scratch!
 
 ---
