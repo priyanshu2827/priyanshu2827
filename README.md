@@ -41,7 +41,4 @@
 
 ---
 
-### 🧮 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=priyanshu2827&color=blue)
 
